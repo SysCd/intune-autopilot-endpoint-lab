@@ -1,4 +1,12 @@
-# Intune / Autopilot / Endpoint Compliance Lab
+<p align="center">
+  <img src="docs/assets/Microsoft-intune.svg.png" alt="Microsoft Intune logo" width="140">
+</p>
+
+<h1 align="center">Intune / Autopilot / Endpoint Compliance Lab</h1>
+
+<p align="center">
+  Windows 11 endpoint management lab using Microsoft Intune, Microsoft Entra ID, compliance policies, device configuration, app deployment, Defender, and Conditional Access.
+</p>
 
 ## Overview
 
